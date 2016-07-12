@@ -1,0 +1,1 @@
+Your application is running on http://localhost:\\.\pipe\3bb8d325-16b2-4885-abee-42942760b631
